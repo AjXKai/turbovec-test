@@ -1,0 +1,7 @@
+datasets
+sentence-transformers
+numpy
+faiss-cpu
+turbovec
+maturin
+psutil
